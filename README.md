@@ -2,8 +2,6 @@
 
 Brandon Jackson and Dennis Evangelista, 2014-2015
 
-test
-
 Eventually setup cloneable Bitbucket repository:
 ```
 hg --clone ssh://hg@bitbucket.org/devangel77b/argus
